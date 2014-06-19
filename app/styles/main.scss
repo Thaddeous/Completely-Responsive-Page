@@ -1,0 +1,56 @@
+$icon-font-path: "/bower_components/bootstrap-sass-official/vendor/assets/fonts/bootstrap/";
+// bower: scss
+@import '../../bower_components/bootstrap-sass-official/vendor/assets/stylesheets/bootstrap.scss';
+// endbower
+
+.browsehappy {
+    margin: 0.2em 0;
+    padding: 0.2em 0;
+    background: #ccc;
+    color: #000;
+}
+body {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.header {
+    border-bottom: 1px solid #e5e5e5;
+    margin-bottom: 10px;
+    h3 {
+        margin-top: 0px;
+        margin-bottom: 0;
+        line-height: 40px;
+        padding-bottom: 12px;
+    }
+}
+.video-container {
+    margin-top: 15px;
+    text-align: center;
+}
+.footer {
+    padding-top: 19px;
+    color: #777;
+    border-top: 1px solid #e5e5e5;
+}
+.container-narrow > hr {
+    margin: 30px 0;
+}
+
+/* media query dude 1000px */
+@media screen and (min-width:1000px) {
+
+}/* media query dude 1000px */
+
+
+
+/* media query dude 800px */
+@media screen and (min-width:800px) {
+
+}/* media query dude 800px */
+
+
+
+/* media query dude 600px */
+@media screen and (min-width:600px) {
+
+}/* media query dude 600px */
